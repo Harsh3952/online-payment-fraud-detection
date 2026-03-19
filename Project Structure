@@ -1,0 +1,12 @@
+fraud-detection-ai/
+│
+├── data/                # Dataset (or link if large)
+├── notebooks/           # Jupyter notebooks
+├── src/                 # Python scripts
+├── models/              # Saved models
+├── app/                 # (Optional) Flask/Streamlit app
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
